@@ -1,4 +1,4 @@
-# Assignment 8: Structurally Similar Sentences
+# Structurally Similar Sentences
 
 ## Overview
 
